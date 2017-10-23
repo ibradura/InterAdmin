@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+.mainShell{width:100%;}
+.tierShell{position: relative;width:100%}
+.tierInBl{display: block;}
+.tierInBl{display: inline-block;}
+.clearfix{clear: both;}
+.left{float: left;}
+.right{float: right;}
+.alignLeft{text-align: left;align-content: left;align-items: left;}
+.alignCenter{text-align: center;align-content: center;align-items: center;}
+.alignRight{text-align: right;align-content: right;align-items: right;}
+
+
